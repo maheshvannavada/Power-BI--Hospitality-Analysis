@@ -1,38 +1,104 @@
-# Power-BI-Hospitality-Analysis
-Problem Statement:-
+AtliQ Hospitality Analysis – Power BI Project
 
-Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+📌 Project Overview
 
-Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
+The AtliQ Hospitality Analysis project is a comprehensive business intelligence solution built using Power BI to analyze hotel performance across multiple cities, properties, room categories, and booking platforms. This dashboard enables stakeholders to monitor revenue, occupancy, bookings, and realization trends while identifying areas of revenue leakage such as cancellations and no-shows.
 
-Insights:-
-The dashboard Provide Insights to the Revenue Team in Hospitality Domain:
+The project is designed to replace static Excel-based reporting with interactive, data-driven dashboards that support faster and smarter decision-making for hospitality leaders.
 
-Developed Dashboards as Overview, Revenue, Booking, Rating and Analysis.
-The analysis is done on various parameters to give a proper insight from the requirement mentioned by the revenue team.
-We need to focus more on Elite customers across the cities as they drive the revenue boost. RT2 Room type should be prioritized more as it has the highest influence on revenue.
-We should make a good connection with the make your trip and log trip platforms. The last two weekends should be in focus to create a balance in realized revenue.
-Revenue started trending down in the last 4days of the month, falling by 28.17%.
-13.59% of revenue realized from Mumbai. June month realized the highest cancellation rate (25.09%), which dipped the Occupancy Rate 0.24% than the average.
-Atliq Blu had the highest Average Rating and was 72.54% higher than Atliq Seasons, which had the lowest Average Rating at 2.29.
+🛠️ Tool Stack
 
-Created following KPI's using DAX :-
+● Power BI Desktop – Data modeling, visualization & dashboarding
 
-Total Bookings
-Total Revenue
-Average Rating
-Total Capacity
-Total Successful bookings
-Occupancy %
-Total Cancelled Bookings
-Cancellation Rate
-Revenue Loss
-Total Stay
+● DAX – Calculated measures and KPIs
 
-Things I learned over here:-
+● SQL – Data extraction and transformation
 
-Learnt about telling data driven stores with this beautiful dashboard.
-Understanding the business requirement based on the data.
-Understanding use of charts and developing DAX measured,
-Developing beautiful UI
-Giving smart narration to the dashboard.
+● Excel – Initial data validation and exploration
+
+📊 Key Metrics Tracked
+
+● Total Revenue
+
+● Total Bookings
+
+● Occupancy %
+
+● ADR (Average Daily Rate)
+
+● RevPAR (Revenue per Available Room)
+
+● DSRN (Daily Sellable Room Nights)
+
+● DBRN (Daily Booked Room Nights)
+
+● DURN (Daily Utilized Room Nights)
+
+● Cancellation %
+
+📈 Dashboard Pages & Insights
+🏠 Home Page
+
+● Central navigation hub for the entire report
+
+● High-level introduction to booking, revenue, and performance dashboards
+
+● Clean, premium hospitality-themed design for executive viewing
+
+📘 Booking Overview
+
+● Analysis of bookings by platform, city, room type, and property
+
+● Key indicators for checkout rate, cancellation %, and no-show %
+
+● Helps identify booking behavior and platform dependency
+
+💰 Revenue Overview
+
+● Revenue distribution by city, category (Luxury vs Business), and property
+
+● Comparison between generated revenue and realized revenue
+
+● Booking platform-wise revenue contribution
+
+📉 Performance Overview
+
+● Trend analysis of RevPAR, ADR, and Occupancy % over time
+
+● Week-wise performance monitoring
+
+● Property-level performance comparison to identify underperforming hotels
+
+🎯 Business Value
+
+● Enables finance teams to track revenue realization and profitability
+
+● Helps sales & marketing teams identify high-performing cities and platforms
+
+● Assists operations teams in monitoring occupancy and capacity utilization
+
+● Provides executives with a clear snapshot of overall business health
+
+📌 Key Takeaways
+
+● Identified revenue leakage due to cancellations and no-shows
+
+● Highlighted top-performing cities and luxury properties
+
+● Revealed platform-wise booking concentration
+
+● Enabled data-driven decisions with interactive filters and drill-downs
+
+📂 Project Highlights
+
+End-to-end BI solution with real-world hospitality KPIs
+
+Interactive slicers for City, Room Type, Property, Month, and Week
+
+Clean UI/UX with premium dashboard design
+
+Scalable data model suitable for large datasets
+
+🚀 Conclusion
+
+This project demonstrates strong proficiency in Power BI, DAX, data modeling, and business storytelling. It showcases how raw hospitality data can be transformed into actionable insights that directly impact revenue optimization and operational efficiency.
