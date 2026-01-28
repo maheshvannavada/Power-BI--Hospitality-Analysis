@@ -54,13 +54,7 @@ The project replaces static Excel-based reporting with interactive, data-driven 
 - Identified revenue leakage due to cancellations and no-shows (33K cancelled bookings)  
 - Highlighted top-performing cities (Mumbai) and luxury properties (Atliq Exotica/Palace)  
 - Revealed platform-wise booking concentration (makeyourtrip dominant)  
-- Enabled data-driven decisions with interactive filters and drill-downs  
-
-## 📂 Project Highlights
-- End-to-end Power BI solution with real-world hospitality KPIs (RevPAR/ADR/Occupancy)  
-- Interactive slicers for City, Room Type, Property, Month, and Week  
-- Clean UI/UX with premium dashboard design across multiple tabs  
-- Scalable data model handling 135K bookings and 1.71bn revenue data  
+- Enabled data-driven decisions with interactive filters and drill-downs   
 
 ## 🚀 Conclusion
 This AtliQ Hospitality Analysis demonstrates strong proficiency in Power BI, DAX, data modeling, and business storytelling. It transforms raw hospitality data into actionable insights driving revenue optimization, platform strategy, and operational efficiency for finance, sales, and operations teams.
